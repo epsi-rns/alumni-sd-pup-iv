@@ -17,7 +17,7 @@ Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C.
 | 11. | Diny Anggraeny             |            |                         |                         |                         |
 | 12. | Duma Viviyanty Manurung    |            |                         |                         |                         |
 | 13. | Dwi Susanto                |            |                         |                         |                         |
-| 14. | Epsiarto Rizqi Nurwijayadi | Kiky       |                         |                         |                         |
+| 14. | Epsiarto Rizqi Nurwijayadi | Kiky       | ![foto][epsi-masuk]     | ![foto][epsi-lulus]     | ![foto][epsi-terkini]     |
 | 15. | Edy Widodo                 |            |                         |                         |                         |
 | 16. | Elly Nayla                 |            |                         |                         |                         |
 | 17. | Ema                        |            |                         |                         |                         |
@@ -51,3 +51,9 @@ Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C.
 | 45. | Windy                      | Windy      |                         |                         |                         |
 | 46. | Wuddy Rusnandar            |            |                         |                         |                         |
 | 47. | Yuppi                      | Yuppi      |                         |                         |                         |
+
+
+
+[epsi-masuk]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-masuk-sd.jpg
+[epsi-lulus]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-lulus-sd.jpg
+[epsi-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-terkini.jpg
