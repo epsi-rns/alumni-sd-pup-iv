@@ -1,7 +1,9 @@
 # Anak Kuda Laut
 
+![logo al kimcil][logo-al-kimcil]
+
 <div style="text-align: center;">
-![logo][logo]
+![logo al kimcil][logo-al-kimcil]
 </div>
 
 ### Alumni SD Pertamina Unit Pengolahan IV Cilacap
@@ -63,7 +65,7 @@ Terimakasih untuk masa kanak2nya yang menggemaskan.
 
 Salam Anak Kuda Laut
 
-[logo]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/misc/anak-kuda-laut.png
+[logo-al-kimcil]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/misc/anak-kuda-laut.png
 [epsi-masuk]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-masuk-sd.jpg
 [epsi-lulus]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-lulus-sd.jpg
 [epsi-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-terkini.jpg
