@@ -1,4 +1,10 @@
-# Alumni SD Pertamina Unit Pengolahan IV Cilacap
+# Anak Kuda Laut
+
+<div style="text-align: center;">
+![logo][logo]
+</div>
+
+### Alumni SD Pertamina Unit Pengolahan IV Cilacap
 
 Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C. Nomor dapat berubah sesuai data terkini.
 
@@ -53,7 +59,11 @@ Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C.
 | 47. | Yuppi                      | Yuppi      |                         |                         |                         |
 
 
+Terimakasih untuk masa kanak2nya yang menggemaskan.
 
+Salam Anak Kuda Laut
+
+[logo]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/misc/anak-kuda-laut.png
 [epsi-masuk]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-masuk-sd.jpg
 [epsi-lulus]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-lulus-sd.jpg
 [epsi-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-terkini.jpg
