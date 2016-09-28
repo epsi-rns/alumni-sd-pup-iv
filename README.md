@@ -2,63 +2,65 @@
 
 ![logo al kimcil][logo-al-kimcil]
 
-<div style="text-align: center;">
-![logo al kimcil][logo-al-kimcil]
-</div>
-
 ### Alumni SD Pertamina Unit Pengolahan IV Cilacap
 
 Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C. Nomor dapat berubah sesuai data terkini.
 
-| No. | Nama Lengkap               | Nama Kecil | Foto Masuk              | Foto Keluar             | Foto Terkini            |
-| --- | -------------------------- | ---------- | ----------------------- | ----------------------- | ----------------------- |
-| 01. | Adi Prayitno               |            |                         |                         |                         |
-| 02. | Agung Budiaji              |            |                         |                         |                         |
-| 03. | Ahmad Husin                | Husin      |                         |                         |                         |
-| 04. | Andrie Eka                 |            |                         |                         |                         |
-| 05. | Anita Hasby                |            |                         |                         |                         |
-| 06. | Avika Kusumajati           | Vika       |                         |                         |                         |
-| 07. | Betty                      |            |                         |                         |                         |
-| 08. | Deffy Warni                |            |                         |                         |                         |
-| 09. | Dessy Rachmawati           |            |                         |                         |                         |
-| 10. | Dian Setyorini             | Dian       |                         |                         |                         |
-| 11. | Diny Anggraeny             |            |                         |                         |                         |
-| 12. | Duma Viviyanty Manurung    |            |                         |                         |                         |
-| 13. | Dwi Susanto                |            |                         |                         |                         |
-| 14. | Epsiarto Rizqi Nurwijayadi | Kiky       | ![foto][epsi-masuk]     | ![foto][epsi-lulus]     | ![foto][epsi-terkini]     |
-| 15. | Edy Widodo                 |            |                         |                         |                         |
-| 16. | Elly Nayla                 |            |                         |                         |                         |
-| 17. | Ema                        |            |                         |                         |                         |
-| 18. | Erwin Teguh A              | Erwin      |                         |                         |                         |
-| 19. | Esti Utami (Uut)           |            |                         |                         |                         |
-| 20. | Farah Farahdillah          |            |                         |                         |                         |
-| 21. | Florita Diana Sari         | Florita    |                         |                         |                         |
-| 22. | Ibnu Hendra                |            |                         |                         |                         |
-| 23. | Ida Nursari                |            |                         |                         |                         |
-| 24. | Ika Hanum                  |            |                         |                         |                         |
-| 25. | Imam Murdiatmoko           | Koko       |                         |                         |                         |
-| 26. | Intan Nurcahaya            |            |                         |                         |                         |
-| 27. | Indah Nur Shanty           |            |                         |                         |                         |
-| 28. | Indah Purwani              |            |                         |                         |                         |
-| 29. | Ipith                      |            |                         |                         |                         |
-| 30. | Ita Harahap                |            |                         |                         |                         |
-| 31. | Kiki Darmawan              | Kiki       |                         |                         |                         |
-| 32. | Krishna Adidarma           | Krishna    |                         |                         |                         |
-| 33. | Lenny Asyita               | Lenny      |                         |                         |                         |
-| 34. | Mina De Amicko             |            |                         |                         |                         |
-| 35. | Monick                     | Monick     |                         |                         |                         |
-| 36. | Muhammad Fikri             | Fikri      |                         |                         |                         |
-| 37. | Panggih                    | Panggih    |                         |                         |                         |
-| 38. | Retno Indah                |            |                         |                         |                         |
-| 39. | Rina Juni Putri Pretami    |            |                         |                         |                         |
-| 40. | Syukron Wahyudi            |            |                         |                         |                         |
-| 41. | Tatos Arvianto             | Tatos      |                         |                         |                         |
-| 42. | Tommy Windrajat            |            |                         |                         |                         |
-| 43. | Totok Parafianto           |            |                         |                         |                         |
-| 44. | Winda                      | Winda      |                         |                         |                         |
-| 45. | Windy                      | Windy      |                         |                         |                         |
-| 46. | Wuddy Rusnandar            |            |                         |                         |                         |
-| 47. | Yuppi                      | Yuppi      |                         |                         |                         |
+| No. | Nama Lengkap                 | Nama Kecil   | Foto Masuk              | Foto Keluar             | Foto Terkini            |
+| --- | ---------------------------- | ------------ | ----------------------- | ----------------------- | ----------------------- |
+| 01. | Adi Prayitno                 |              |                         |                         |                         |
+| 02. | Ady Arief Rahman             | Ady          |                         |                         |                         |
+| 03. | Agnes Suristyowati           | Agnes        |                         |                         |                         |
+| 04. | Agung Budiaji                | Agung        |                         |                         |                         |
+| 05. | Ahmad Husin                  | Husin        |                         |                         |                         |
+| 06. | Andri Eka Hendriyana         | Andri        |                         |                         |                         |
+| 07. | Anita Dewi                   | Nit-nit      |                         |                         |                         |
+| 08. | Anwar Sadat                  | Anwar        |                         |                         |                         |
+| 09. | Avika Kusumajati             | Vika         |                         |                         |                         |
+| 10. | Bety Wijihastuti             | Bety         |                         |                         |                         |
+| 11. | Deffy Warni                  |              |                         |                         |                         |
+| 12. | Dessy Rachmawati Ayuningrum  | Dessy        |                         |                         |                         |
+| 13. | Dian Setyorini               | Dian         |                         |                         |                         |
+| 14. | Diny Anggraeny               | Diny         |                         |                         |                         |
+| 15. | Duma Viviyanty Manurung      | Vivi         |                         |                         |                         |
+| 16. | Dwi Santoso Yuniawan         | Dwi          |                         |                         |                         |
+| 17. | Epsiarto Rizqi Nurwijayadi   | Kiky         | ![foto][epsi-masuk]     | ![foto][epsi-lulus]     | ![foto][epsi-terkini]   |
+| 18. | Edy Widodo                   | Edy          |                         |                         |                         |
+| 19. | Erwin Teguh Arujisaputra     | Erwin        |                         |                         |                         |
+| 20. | Esti Utami                   | Uut          |                         |                         |                         |
+| 21. | Evi Rachmawati Hasnani P.    | Kiki         |                         |                         |                         |
+| 22. | Farah Faradilla              | Farah        |                         |                         |                         |
+| 23. | Florita Diana Sari           | Flor         |                         |                         |                         |
+| 24. | Helmayati                    | Ema          |                         |                         |                         |
+| 25. | Ibnu Purcahyo Hendraningtyas | Hendra       |                         |                         |                         |
+| 26. | Ida Nursari                  | Ida          |                         |                         |                         |
+| 27. | Ika Ristika Hanum            | Ika          |                         |                         |                         |
+| 28. | Imam Murdiatmoko             | Koko         |                         |                         |                         |
+| 29. | Indah Nur Santy Abidin       | Indah        |                         |                         |                         |
+| 30. | Indah Purwani                | Indah/Iin    |                         |                         |                         |
+| 31. | Intan Nurcahya               | Intan        |                         |                         |                         |
+| 32. | Krishna Adidarma             | Aa'/Krishna  |                         |                         |                         |
+| 33. | Lenny Asyita Cahyani         | Lenny        |                         |                         |                         |
+| 34. | Martha Inessi                | Monick       |                         |                         |                         |
+| 35. | Masitah Harahap              | Ita          |                         |                         |                         |
+| 36. | Mina De Amicko               | Micko        |                         |                         |                         |
+| 37. | Muhammad Fikri               | Fikri        |                         |                         |                         |
+| 38. | Muhammad Fitriansyah         | Ipith        |                         |                         |                         |
+| 39. | Nurlaili Azizah              | Elly         |                         |                         |                         |
+| 40. | Panggih Andhika              | Panggih/Pank |                         |                         |                         |
+| 41. | Retno Indah                  |              |                         |                         |                         |
+| 42. | Rina Juni Putri Pretami      |              |                         |                         |                         |
+| 43. | Santi                        | Ichan        |                         |                         |                         |
+| 44. | Syukron Wahyudi              | Yudi         |                         |                         |                         |
+| 45. | Tatos Arvianto               | Tatos        |                         |                         |                         |
+| 46. | Tommy Windrajat Natapraja    | Tommy        |                         |                         |                         |
+| 47. | Totok Parafianto             | Totok        |                         |                         |                         |
+| 48. | Wahyu Widhiarti              | Wahyu        |                         |                         |                         |
+| 49. | Winda Herty Kurniasari       | Winda        |                         |                         |                         |
+| 50. | Windy Herta Kurniawati       | Windy        |                         |                         |                         |
+| 51. | Wuddy Rusnandar              | Dedek        |                         |                         |                         |
+| 52. | Yuppi Mutiarani              | Yuppi        |                         |                         |                         |
+| 53. | Zuli Kurnia                  | Yuli         |                         |                         |                         |
 
 
 Terimakasih untuk masa kanak2nya yang menggemaskan.
