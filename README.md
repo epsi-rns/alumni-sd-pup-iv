@@ -8,18 +8,18 @@ Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C.
 
 | No. | Nama Lengkap                 | Nama Kecil   | Foto Masuk              | Foto Keluar             | Foto Terkini            |
 | --- | ---------------------------- | ------------ | ----------------------- | ----------------------- | ----------------------- |
-| 01. | Adi Prayitno                 |              |                         |                         |                         |
+| 01. | Adi Prayitno                 |              |                         |                         | ![foto][adi-terkini]    |
 | 02. | Ady Arief Rahman             | Ady          |                         |                         |                         |
 | 03. | Agnes Suristyowati           | Agnes        |                         |                         |                         |
-| 04. | Agung Budiaji                | Agung        |                         |                         |                         |
+| 04. | Agung Budiaji                | Agung        |                         |                         | ![foto][agung-terkini]  |
 | 05. | Ahmad Husin                  | Husin        |                         |                         |                         |
 | 06. | Andri Eka Hendriyana         | Andri        |                         |                         |                         |
-| 07. | Anita Dewi                   | Nit-nit      |                         |                         |                         |
+| 07. | Anita Dewi                   | Nit-nit      |                         |                         | ![foto][nit2-terkini]   |
 | 08. | Anwar Sadat                  | Anwar        |                         |                         |                         |
-| 09. | Avika Kusumajati             | Vika         |                         |                         |                         |
+| 09. | Avika Kusumajati             | Vika         |                         |                         | ![foto][vika-terkini]   |
 | 10. | Bety Wijihastuti             | Bety         |                         |                         |                         |
 | 11. | Deffy Warni                  |              |                         |                         |                         |
-| 12. | Dessy Rachmawati Ayuningrum  | Dessy        |                         |                         |                         |
+| 12. | Dessy Rachmawati Ayuningrum  | Dessy        |                         |                         | ![foto][dessy-terkini]  |
 | 13. | Dian Setyorini               | Dian         |                         |                         |                         |
 | 14. | Diny Anggraeny               | Diny         |                         |                         |                         |
 | 15. | Duma Viviyanty Manurung      | Vivi         |                         |                         |                         |
@@ -45,7 +45,7 @@ Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C.
 | 35. | Masitah Harahap              | Ita          |                         |                         |                         |
 | 36. | Mina De Amicko               | Micko        |                         |                         |                         |
 | 37. | Muhammad Fikri               | Fikri        |                         |                         |                         |
-| 38. | Muhammad Fitriansyah         | Ipith        |                         |                         |                         |
+| 38. | Muhammad Fitriansyah         | Ipith        |                         |                         | ![foto][ipith-terkini]  |
 | 39. | Nurlaili Azizah              | Elly         |                         |                         |                         |
 | 40. | Panggih Andhika              | Panggih/Pank |                         |                         |                         |
 | 41. | Retno Indah                  |              |                         |                         |                         |
@@ -53,13 +53,13 @@ Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C.
 | 43. | Santi                        | Ichan        |                         |                         |                         |
 | 44. | Syukron Wahyudi              | Yudi         |                         |                         |                         |
 | 45. | Tatos Arvianto               | Tatos        |                         |                         |                         |
-| 46. | Tommy Windrajat Natapraja    | Tommy        |                         |                         |                         |
+| 46. | Tommy Windrajat Natapraja    | Tommy        |                         |                         | ![foto][tommy-terkini]  |
 | 47. | Totok Parafianto             | Totok        |                         |                         |                         |
 | 48. | Wahyu Widhiarti              | Wahyu        |                         |                         |                         |
 | 49. | Winda Herty Kurniasari       | Winda        |                         |                         |                         |
 | 50. | Windy Herta Kurniawati       | Windy        |                         |                         |                         |
 | 51. | Wuddy Rusnandar              | Dedek        |                         |                         |                         |
-| 52. | Yuppi Mutiarani              | Yuppi        |                         |                         |                         |
+| 52. | Yuppi Mutiarani              | Yuppi        |                         |                         | ![foto][yuppi-terkini]  |
 | 53. | Zuli Kurnia                  | Yuli         |                         |                         |                         |
 
 
@@ -68,6 +68,25 @@ Terimakasih untuk masa kanak2nya yang menggemaskan.
 Salam Anak Kuda Laut
 
 [logo-al-kimcil]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/misc/anak-kuda-laut.png
+
+[adi-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/adi-prayitno-wa.jpg
+
+[agung-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/agung-wa.jpgk
+
+[vika-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/agung-wa.jpg
+
+[dessy-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/dessy-wa.jpg
+
 [epsi-masuk]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-masuk-sd.jpg
 [epsi-lulus]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-lulus-sd.jpg
 [epsi-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-terkini.jpg
+
+[ipith-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/ipith-wa.jpg
+
+[nit2-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/nit2-wa.jpg
+
+[ipith-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/ipith-wa.jpg
+
+[tommy-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/tommy-wa.jpg
+
+[yuppi-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/yuppi-wa.jpg
