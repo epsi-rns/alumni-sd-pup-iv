@@ -27,12 +27,12 @@ Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C.
 | 17. | Epsiarto Rizqi Nurwijayadi   | Kiky         | ![foto][epsi-masuk]     | ![foto][epsi-lulus]     | ![foto][epsi-terkini]   |
 | 18. | Edy Widodo                   | Edy          |                         |                         |                         |
 | 19. | Erwin Teguh Arujisaputra     | Erwin        |                         |                         | ![foto][erwin-terkini]  |
-| 20. | Esti Utami                   | Uut          |                         |                         |                         |
+| 20. | Esti Utami                   | Uut          |                         |                         | ![foto][uut-terkini]    |
 | 21. | Evi Rachmawati Hasnani P.    | Kiki         |                         |                         | ![foto][kiki-terkini]   |
 | 22. | Farah Faradilla              | Farah        |                         |                         | ![foto][farah-terkini]  |
 | 23. | Florita Diana Sari           | Flor         |                         |                         |                         |
 | 24. | Helmayati                    | Ema          |                         |                         |                         |
-| 25. | Ibnu Purcahyo Hendraningtyas | Hendra       |                         |                         |                         |
+| 25. | Ibnu Purcahyo Hendraningtyas | Hendra       |                         |                         | ![foto][ibnu-terkini]   |
 | 26. | Ida Nursari                  | Ida          |                         |                         |                         |
 | 27. | Ika Ristika Hanum            | Ika          |                         |                         |                         |
 | 28. | Imam Murdiatmoko             | Koko         |                         |                         |                         |
@@ -41,10 +41,10 @@ Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C.
 | 31. | Intan Nurcahya               | Intan        |                         |                         | ![foto][intan-terkini]  |
 | 32. | Krishna Adidarma             | Aa'/Krishna  |                         |                         |                         |
 | 33. | Lenny Asyita Cahyani         | Lenny        |                         |                         | ![foto][lenny-terkini]  |
-| 34. | Martha Inessi                | Monick       |                         |                         |                         |
+| 34. | Martha Inessi                | Monick       |                         |                         | ![foto][monick-terkini] |
 | 35. | Masitah Harahap              | Ita          |                         |                         |                         |
 | 36. | Mina De Amicko               | Micko        |                         |                         |                         |
-| 37. | Muhammad Fikri               | Fikri        |                         |                         |                         |
+| 37. | Muhammad Fikri               | Fikri        |                         |                         | ![foto][micko-terkini]  |
 | 38. | Muhammad Fitriansyah         | Ipith        |                         |                         | ![foto][ipith-terkini]  |
 | 39. | Nurlaili Azizah              | Elly         |                         |                         |                         |
 | 40. | Panggih Andhika              | Panggih/Pank |                         |                         |                         |
@@ -56,8 +56,8 @@ Daftar Alumni angkatan 1987 yang berhasil dilacak. Kelas A, kelas B dan kelas C.
 | 46. | Tommy Windrajat Natapraja    | Tommy        |                         |                         | ![foto][tommy-terkini]  |
 | 47. | Totok Parafianto             | Totok        |                         |                         | ![foto][totok-terkini]  |
 | 48. | Wahyu Widhiarti              | Wahyu        |                         |                         |                         |
-| 49. | Winda Herty Kurniasari       | Winda        |                         |                         |                         |
-| 50. | Windy Herta Kurniawati       | Windy        |                         |                         |                         |
+| 49. | Winda Herty Kurniasari       | Winda        |                         |                         | ![foto][winda-terkini]  |
+| 50. | Windy Herta Kurniawati       | Windy        |                         |                         | ![foto][windy-terkini]  |
 | 51. | Wuddy Rusnandar              | Dedek        |                         |                         |                         |
 | 52. | Yuppi Mutiarani              | Yuppi        |                         |                         | ![foto][yuppi-terkini]  |
 | 53. | Zuli Kurnia                  | Yuli         |                         |                         |                         |
@@ -86,13 +86,17 @@ Salam Anak Kuda Laut
 [epsi-lulus]:   https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-lulus-sd.jpg
 [epsi-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/epsi-terkini.jpg
 [erwin-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/erwin-fb.jpg
+[uut-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/uut-fb.jpg
 [kiki-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/kiki-fb.jpg
 [farah-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/farah-wa.jpg
+[ibnu-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/ibnu-wa.jpg
 
 [indahn-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/indah-nursanty-fb.jpg
 [indahp-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/indah-purwani-fb.jpg
 [intan-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/intan-wa.jpg
-[lenny-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/lenny-fb.jpg
+[lenny-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/lenny-fb.jpgo
+[monick-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/monick-fb.jpg
+[micko-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/micko-fb.jpg
 
 [ipith-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/ipith-wa.jpg
 
@@ -100,5 +104,8 @@ Salam Anak Kuda Laut
 [tatos-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/tatos-fb.jpg
 [tommy-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/tommy-wa.jpg
 [totok-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/totok-wai.jpg
+
+[winda-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/winda-fb.jpg
+[windy-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/windy-fb.jpg
 
 [yuppi-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/yuppi-wa.jpg
