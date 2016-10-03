@@ -94,7 +94,7 @@ Salam Anak Kuda Laut
 [indahn-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/indah-nursanty-fb.jpg
 [indahp-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/indah-purwani-fb.jpg
 [intan-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/intan-wa.jpg
-[lenny-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/lenny-fb.jpgo
+[lenny-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/lenny-fb.jpg
 [monick-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/monick-fb.jpg
 [micko-terkini]: https://github.com/epsi-rns/alumni-sd-pup-iv/blob/master/1987/micko-fb.jpg
 
